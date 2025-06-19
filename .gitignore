@@ -1,0 +1,11 @@
+ data/
+model1/
+model2/
+backups/
+.ipynb_checkpoints/
+.env
+seoul_population_data.csv
+seoul_station_population_data.csv
+따릉이22년도.csv
+따릉이23년도.csv
+따릉이24년도.csv
