@@ -19,7 +19,11 @@
 ---
 
 ## 📁 프로젝트 구조
-PM/ ├── Data_Analysis/ # 데이터 분석 코드 ├── Data_Preprocessing/ # 데이터 전처리 코드 ├── DL_models/ # 딥러닝 모델 코드 └── README.md # 프로젝트 개요 및 설명
+PM/ 
+├── Data_Analysis/ # 데이터 분석 코드 
+├── Data_Preprocessing/ # 데이터 전처리 코드 
+├── DL_models/ # 딥러닝 모델 코드 
+└── README.md # 프로젝트 개요 및 설명
 ---
 
 ## 🛠 데이터 전처리 및 분석
